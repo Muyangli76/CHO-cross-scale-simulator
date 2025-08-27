@@ -1,0 +1,1 @@
+Global_Run_Order,BatchName,Scale,pH_setpoint,DO_setpoint_pct,kLa,feed_VVD_relative,temp_shift_time_h,inoc_density_1e6_per_mL,antifoam_type,num_feed_phases,phase1_start_h,phase1_vvd_per_day,phase2_start_h,phase2_vvd_per_day,cin_mM,Design,Phase
